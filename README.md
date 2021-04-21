@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## screenshots
 
-!![alt text]() !
+!![alt text](https://github.com/iammeet071/QuoteApp-Flutter/blob/main/screenshot/1.png) !
 
 This project is a starting point for a Flutter application.
 
